@@ -38,7 +38,7 @@ The fairly complete list of data on various topics.
 
 - [Injury Statistics Query](https://www.cdc.gov/injury/wisqars/index.html)
 
-- [Disability and Health data system(https://www.cdc.gov/ncbddd/disabilityandhealth/dhds.html)
+- [Disability and Health data system](https://www.cdc.gov/ncbddd/disabilityandhealth/dhds.html)
 
 - [CDC weekly flu report](https://www.cdc.gov/flu/weekly/)
 
