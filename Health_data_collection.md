@@ -29,9 +29,9 @@ The fairly complete list of data on various topics.
 
 - [CDC Wonder](https://wonder.cdc.gov/):
  The most powerful query-able database for mortality statistics, yet not super user-friendly. Goes up to county-level data on pretty much every categorized cause of death. Also has 
-* AIDS data,
-* Environmental variables (like temperature),
-* Vaccine adverse reporting data
+⋅⋅* AIDS data,
+⋅⋅* Environmental variables (like temperature),
+⋅⋅* Vaccine adverse reporting data
 
 - [National Notifiable Infectious Disease tables](https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp):
  Certain infectious diseases have reporting requirements. This collects each week's data for every state into a pdf and spreadsheet.
@@ -60,11 +60,11 @@ Most CMS data on patients or health use focuses only on Medicare and/or Medicaid
 - [Open Payments database](https://www.cms.gov/OpenPayments/index.html):
 Find out how much your doctor received from drug and device companies.
 
-- [Medicare Provider Utilization and Payment data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html: Medicare patient data on 
-* Physician visits and utilization,
-* Inpatient and Outpatient Services,
-* Prescriber data (any drug you'd like to know about, pretty much) -- includes state-wide totals as well as individual doctors
-* Home health agencies, skilled nursing facilities and hospice providers: their names and basic patient info
+- [Medicare Provider Utilization and Payment data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html): Medicare patient data on 
+⋅⋅* Physician visits and utilization,
+⋅⋅* Inpatient and Outpatient Services,
+⋅⋅* Prescriber data (any drug you'd like to know about, pretty much) -- includes state-wide totals as well as individual doctors
+⋅⋅* Home health agencies, skilled nursing facilities and hospice providers: their names and basic patient info
 
 - [Chronic conditions](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Chronic-Conditions/CC_Main.html) prevalence and cost to Medicare 
 
