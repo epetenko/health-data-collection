@@ -96,3 +96,9 @@ Mostly on drug histories and adverse events.
 
 - [County Health Rankings](http://www.countyhealthrankings.org/app/new-jersey/2017/rankings/middlesex/county/outcomes/overall/snapshot):
 Somehow supported by the CDC, but run by University of Wisconsin. Allows you to look up a county and compare on health outcomes, behaviors (like obesity) and socioeconomic factors.
+
+- [ProPublica Vital Signs](https://projects.propublica.org/vital-signs/):
+Amazing helpful tool for digging through CMS data, including payments and prescriptions. Go here if you're looking for an individual doctor or a handful of them. You can also go to [Dollars for Docs](https://projects.propublica.org/docdollars/)and [Prescriber Checkup](https://projects.propublica.org/checkup/) for a more detailed version.
+
+- [Global Health Data Exchange](http://ghdx.healthdata.org/)
+
