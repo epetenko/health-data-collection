@@ -117,3 +117,19 @@ Broad, top-level international health data, both conditions and care.
 
 - [Kaiser health data](https://www.kff.org/statedata/): 
 Basic state comparisons on a wide range of topics.
+
+- [SIDER](http://sideeffects.embl.de/):
+A database of drug side effects.
+
+- [National Electronic Injury Surveillance System](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data/):
+A survey that tracks injuries from consumer products. Steve used to use this to talk about Christmas-related injuries. 
+
+- [Cancer Statistics Center](https://cancerstatisticscenter.cancer.org/#!/):
+Basic tool to track cancer incidence by type and state.
+
+- [Open Food Facts](https://world.openfoodfacts.org/):
+A database of nutritional info for food products. Might be helpful as a substitute for your basic Google search.
+
+- [The Health Inequality Project](https://healthinequality.org/data/):
+Data on life expectancy and other health outcomes by income, race, and gender.
+
