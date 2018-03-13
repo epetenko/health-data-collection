@@ -65,6 +65,8 @@ Look up stats on air quality, asthma, cancers, pesticide exposure and a number o
 
 Most CMS data on patients or health use focuses only on Medicare and/or Medicaid patients, however there are definite exceptions, especially if you're willing to dig.
 
+- [Hospital Compare data](https://data.medicare.gov/data/archives/hospital-compare)
+
 - [Data.medicare.gov](https://data.medicare.gov/)
 
 - [Open Payments database](https://www.cms.gov/OpenPayments/index.html):
