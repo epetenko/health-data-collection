@@ -2,7 +2,8 @@
 
 ### State-hosted resources
 
-[NJSHAD: State Health Assessment Data](https://www26.state.nj.us/doh-shad/):
+[NJSHAD: State Health Assessment Data](https://www26.state.nj.us/doh-shad/)
+
 Has New Jersey health data in two categories: pre-written Indicator reports, and Dataset Queries that allow you to choose variables. It allows for a handful of municipality-level queries, but it's mostly county or state level. Among other topics, it has basic incidence levels of:
 
 * Infant and maternal health parameters
