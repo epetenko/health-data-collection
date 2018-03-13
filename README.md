@@ -92,7 +92,7 @@ Info about plans available on the exchange.
 - [openFDA](https://open.fda.gov/):
 Mostly on drug histories and adverse events.
 
--[SAMSHA Mental health data](https://www.samhsa.gov/data/reports-by-geography?tid=650&map=1): 
+- [SAMSHA Mental health data](https://www.samhsa.gov/data/reports-by-geography?tid=650&map=1): 
 Has state-by-state estimates of substance use and mental health disorders.
 
 ### Third-party data sources
@@ -104,4 +104,7 @@ Somehow supported by the CDC, but run by University of Wisconsin. Allows you to 
 Amazing helpful tool for digging through CMS data, including payments and prescriptions. Go here if you're looking for an individual doctor or a handful of them. You can also go to [Dollars for Docs](https://projects.propublica.org/docdollars/)and [Prescriber Checkup](https://projects.propublica.org/checkup/) for a more detailed version.
 
 - [Global Health Data Exchange](http://ghdx.healthdata.org/)
+
+- [Bloomberg health care data compilation](https://github.com/BloombergGraphics/2017-health-insurer-exits-data): 
+County-by-county insurance selections and offerings.
 
