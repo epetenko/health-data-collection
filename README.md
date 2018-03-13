@@ -92,6 +92,9 @@ Info about plans available on the exchange.
 - [openFDA](https://open.fda.gov/):
 Mostly on drug histories and adverse events.
 
+-[SAMSHA Mental health data](https://www.samhsa.gov/data/reports-by-geography?tid=650&map=1): 
+Has state-by-state estimates of substance use and mental health disorders.
+
 ### Third-party data sources
 
 - [County Health Rankings](http://www.countyhealthrankings.org/app/new-jersey/2017/rankings/middlesex/county/outcomes/overall/snapshot):
