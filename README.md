@@ -97,6 +97,8 @@ Mostly on drug histories and adverse events.
 - [SAMSHA Mental health data](https://www.samhsa.gov/data/reports-by-geography?tid=650&map=1): 
 Has state-by-state estimates of substance use and mental health disorders.
 
+- [Open HIPAA investigations](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf)
+
 ### Third-party data sources
 
 - [County Health Rankings](http://www.countyhealthrankings.org/app/new-jersey/2017/rankings/middlesex/county/outcomes/overall/snapshot):
