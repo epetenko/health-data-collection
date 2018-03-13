@@ -15,6 +15,7 @@ Has New Jersey health data in two categories: pre-written Indicator reports, and
 
 [Communicable Disease Service](http://nj.gov/health/cd/statistics/)
 - Has flu, rabies and other communicable disease reports, premade so not a lot of options or pretty machine-readable formatting
+- Has school-level vaccine reports: http://www.nj.gov/health/cd/statistics/imm-status-reports/
 
 [NJ CARES opioid website](http://www.nj.gov/oag/njcares/)
 - Working on creating a live updating site of opioid prescriptions and deaths.
