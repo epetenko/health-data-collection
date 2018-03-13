@@ -44,6 +44,9 @@ The fairly complete list of data on various topics.
 - [National Notifiable Infectious Disease tables](https://wonder.cdc.gov/nndss/nndss_weekly_tables_menu.asp):
  Certain infectious diseases have reporting requirements. This collects each week's data for every state into a pdf and spreadsheet.
 
+- [Behavioral Risk Factor Surveillance Survey](https://www.cdc.gov/brfss/):
+Telephone surveys on health factors and risks, chronic conditions, etc.
+
 - [Injury Statistics Query](https://www.cdc.gov/injury/wisqars/index.html)
 
 - [Disability and Health data system](https://www.cdc.gov/ncbddd/disabilityandhealth/dhds.html)
@@ -89,6 +92,9 @@ Month-by-month, state-by-state data on Medicare enrollment. There's more detaile
 - [National Health Expenditure data](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/index.html)
 
 #### Other federal
+
+- [Medical Expenditure Panel Survey](https://meps.ahrq.gov/mepsweb/):
+"the most complete source of data on the cost and use of health care and health insurance coverage."
 
 - [Healthcare.gov/Obamacare enrollment data](https://www.healthcare.gov/health-and-dental-plan-datasets-for-researchers-and-issuers/):
 Info about plans available on the exchange.
